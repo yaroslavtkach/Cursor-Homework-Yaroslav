@@ -15,7 +15,7 @@ table, th, td {
     background-color: black; }
 
   body{
-    background: url("assets/one.jpg");
+    background-image: url(one.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     line-height: 15px;
