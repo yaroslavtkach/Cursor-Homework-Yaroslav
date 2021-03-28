@@ -1,0 +1,57 @@
+table, th, td {
+    border: 3px solid black;
+    border-collapse: collapse;
+    padding: 7px;
+    text-align: left; 
+   
+  }
+  .t01 {
+    width: 80%;
+    background-color: whitesmoke;
+  }
+
+  .t01 th {
+    color: #EEE8AA;
+    background-color: black; }
+
+  body{
+    background: url("assets/one.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    line-height: 15px;
+    font-weight: bold;
+    font-size: 15px;
+    letter-spacing: 1px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    opacity: 0.8;
+  }
+.c01{
+  border: 2px solid black;
+  background-color: whitesmoke;
+  font-size: 15px;
+  }
+
+  .c02 {
+    border: 2px solid black;
+    background-color: whitesmoke;
+}
+  .h { 
+    color: whitesmoke;
+  }
+  .hc{
+    color: #800000;
+    font-weight: bold;
+    font-size: 15px;
+    letter-spacing: 1px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+  }
+  .hx{
+    font-weight: bold;
+    font-size: 15px;
+    letter-spacing: 1px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+  }
+  
