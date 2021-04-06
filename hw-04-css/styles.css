@@ -108,7 +108,8 @@ img
 
 .search 
 { 
-    
+    box-sizing: border-box;
+    padding-left: 30px;
     width: 100%;
     height: 26px;
     border-radius: 5px;
