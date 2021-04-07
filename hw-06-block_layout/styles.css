@@ -133,6 +133,7 @@ input, select{
     padding: 0 30px;
     font-size: 16px;
     line-height: 19px;
+    outline: none; 
 }
 
 .row{
@@ -232,6 +233,9 @@ h3{
     margin: 0 0 33px;
 }
 
-.payment{
-    
-}
+ select{ 
+    appearance: none;
+    background: url(others-icons/caret-icon.svg) no-repeat right; 
+    background-position-x: calc(100% - 23px); 
+} 
+
